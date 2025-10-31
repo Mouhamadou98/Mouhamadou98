@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Mouhamadou98 Software Enginer et Data Science Apprentice 
-- 👀 I’m interested by data Science, Data Analyse, Data Architecture, Data Brick MlOps
-- 🌱 I’m currently learning times series, machine learning Algorithm, R Shiny, Kubernetese,Spark and AWS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mouhamadou Data Scientist | Data Engineer | MLOps Engineer and Software Enginer
+- 👀 I’m interested by data Science, Architecture, MlOps and LLMs
+- 🌱 I’m currently learning Many thinks 
+- 💞️ I’m looking for a permanent contract as an Data Scientist or Data Engineer
+- I am a kind of guys who like learn and impact
 - 📫 How to reach me modzigning@gmail.com
 
 <!---
