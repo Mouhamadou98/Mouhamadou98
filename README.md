@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mouhamadou Data Scientist | Data Engineer | MLOps Engineer and Software Enginer
+- 👋 Hi, I’m Mouhamadou Data Scientist | Data Engineer | MLOps Engineer and Software Engineer
 - 👀 I’m interested by data Science, Architecture, MlOps and LLMs
 - 🌱 I’m currently learning Many thinks 
 - 💞️ I’m looking for a permanent contract as an Data Scientist or Data Engineer
